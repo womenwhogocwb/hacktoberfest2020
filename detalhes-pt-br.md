@@ -1,4 +1,6 @@
-⏳ _EM CONSTRUÇÃO_ ⏳
+## Recursos
+
+Quer seja o seu primeiro ou quinquagésimo *Pull Request*, sempre há mais para aprender! Nós reunimos alguns recursos que podem ajudá-lo a criar *Pull Requests* de qualidade, manter seus repositórios intactos e desenvolver seu conhecimento em *open source*.
 
 ## Resources
 
