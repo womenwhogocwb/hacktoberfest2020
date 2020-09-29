@@ -1,10 +1,6 @@
 ## Recursos
 
-Quer seja o seu primeiro ou quinquagésimo *Pull Request*, sempre há mais para aprender! Nós reunimos alguns recursos que podem ajudá-lo a criar *Pull Requests* de qualidade, manter seus repositórios intactos e desenvolver seu conhecimento em *open source*.
-
-## Resources
-
-Whether it’s your first or fiftieth pull request, there’s always more to learn! We’ve put together a few resources that can help you create quality pull requests, keep your repositories pristine, and build on your open source knowledge.
+Quer seja o seu primeiro ou quinquagésimo *Pull Request*, sempre há mais para aprender! Nós reunimos alguns recursos que podem ajudá-lo a criar *Pull Requests* de qualidade, manter seus repositórios impecáveis e desenvolver seu conhecimento em *open source*.
 
 ## Values
 
