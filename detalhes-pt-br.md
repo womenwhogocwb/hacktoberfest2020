@@ -2,17 +2,16 @@
 
 Quer seja o seu primeiro ou quinquagésimo *Pull Request*, sempre há mais para aprender! Nós reunimos alguns recursos que podem ajudá-lo a criar *Pull Requests* de qualidade, manter seus repositórios impecáveis e desenvolver seu conhecimento em *open source*.
 
-## Values
+## Valores
 
-Inspired by you, the community, through your actions and stories.
+Inspirado em vocês, -a comunidade- através das suas ações e histórias.
 
-1. **Everyone is welcome!** Participants in Hacktoberfest represented 151 countries and thousands of unique skill sets. This program welcomes everyone already who’s already part of the open source software community, and anyone who is interested in sectioning in.
-2. **Quantity is fun, quality is key.** Participating in Hacktoberfest leads to personal growth, professional opportunities, and community building. However, it all begins with meaningful contributions to open source software.
-3. **Short-term action, long-term impact.** In the open source software community, we are standing on the shoulders of those who came before us. Your participation has a lasting effect on people and technology long after October. This is a voyage not a race.
+1. **Todos são bem vindos!** Os participantes no Hacktoberfest representam 151 países e milhares de conjuntos de habilidades exclusivas. Este programa dá boas vindas a todos os que já fazem parte da comunidade de *software open source*, e todos os que estão interessados em se unir.
+2. **Quantidade é divertido, qualidade é a chave** Os participantes do Hacktoberfest levam ao crescimento pessoal, oportunidades profissionais e construção de comunidade. Contudo, tudo começa com contribuições significativas para o *software open source*
+3. **Ação de curto prazo, impacto de longo prazo** Na comunidade de *software open source*, estamos apoiados nos ombros daqueles que estão antes de nós. Sua participação terá um efeito duradouro nas pessoas e na tecnologia após Outubro. Esta é uma viagem, não uma corrida.
 
-## Getting started with Hacktoberfest
-
-We ask all participants to read through the details to ensure that the global community is working toward a shared goal. Thank you for honoring the values and following the rules of participation.
+## Começando com o Hacktoberfest
+Nós recomendamos à todos os participantes que leiam todos os detalhes para garantir que a comunidade global esteja trabalhando em direção à um objetivo em comum. Obrigada por honrar os valores e seguir as regras de participação.
 
 ## Participation details
 
