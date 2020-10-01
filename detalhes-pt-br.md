@@ -4,7 +4,7 @@ Quer seja o seu primeiro ou quinquagésimo *Pull Request*, sempre há mais para 
 
 ## Valores
 
-Inspirado em você, -a comunidade- através das suas ações e histórias.
+Inspirado em vocês, -a comunidade- através das suas ações e histórias.
 
 1. **Todos são bem vindos!** Os participantes no Hacktoberfest representam 151 países e milhares de conjuntos de habilidades exclusivas. Este programa dá boas vindas a todos os que já fazem parte da comunidade de *software open source*, e todos os que estão interessados em se unir.
 2. **Quantidade é divertido, qualidade é a chave** Os participantes do Hacktoberfest levam ao crescimento pessoal, oportunidades profissionais e construção de comunidade. Contudo, tudo começa com contribuições significativas para o *software open source*
