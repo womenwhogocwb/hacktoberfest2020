@@ -17,8 +17,8 @@ We ask all participants to read through the details to ensure that the global co
 ## Detalhes de participação
 
 - A Hacktoberfest está aberta a todos em nossa comunidade global. Seja você um contribuidor experiente ou esteja procurando projetos para contribuir pela primeira vez, sinta-se à vontade para participar.
-- As solicitações de pull request podem ser feitas em qualquer repositório ou projeto hospedado no GitHub. Contanto que o projeto esteja público e hospedado no GitHub, suas solicitações de pull request contarão para sua participação.
-- Você pode se inscrever a qualquer momento entre 1º de outubro e 31 de outubro. Apenas certifique-se de se inscrever no site oficial do Hacktoberfest para que suas solicitações de pull request sejam contabilizadas.
+- As solicitações de pull request podem ser feitas em qualquer repositório ou projeto hospedado no GitHub. Contanto que o projeto esteja **público** e **hospedado no GitHub**, suas solicitações de *pull request* contarão para sua participação.
+- Você pode se inscrever a qualquer momento entre 1º de outubro e 31 de outubro. Apenas certifique-se de se inscrever no site oficial do Hacktoberfest(https://hacktoberfest.digitalocean.com/) para que suas solicitações de *pull request* sejam contabilizadas.
 
 ## Participation rules
 
