@@ -43,3 +43,24 @@ Há uma janela de sete dias para revisão de todas as *pull requests* antes de s
 Repositórios ruins serão excluídos. No passado, vimos muitos repositórios que incentivam os participantes a fazerem *pull requests* simples - como adicionar seus nomes a um arquivo - para obter rapidamente uma *pull request* para concluir o Hacktoberfest. Embora possa ser uma ferramenta de aprendizado para novos colaboradores, vai contra um dos nossos valores fundamentais do Hacktoberfest. A **qualidade** das *pull requests* é **fundamental**; a quantidade vem em segundo lugar. Esses repositórios não incentivam contribuições de qualidade e fornecem uma vantagem injusta na conclusão do desafio do Hacktoberfest. Implementamos um sistema para bloquear esses repositórios e quaisquer *pull requests* enviadas a esses repositórios não serão contadas.
 
 [Denunciar um repositório que não segue os valores do Hacktoberfest.](https://hacktoberfest.digitalocean.com/report)
+
+# UPDATE DE REGRAS DE PARTICIPAÇÃO
+
+Após vários relatos de *spam* ocorrendo nos primeiros dias do evento, a organização da Hacktoberfest juntamente com o Github reformularam as regras para evitar vários *pull requests* inválidos.
+
+**Estamos tornando o Hacktoberfest opcional apenas para projetos - onde os monitores poderão simplesmente adicionar o tópico "hacktoberfest" em um repositório.**
+
+Esta é uma das requisições primárias para o monitor e nós esperamos que isto ajude a aliviar um pouco dos problemas que vocês tem enfrentado.
+
+Nós honraremos todas as *pull requests* válidas antes desta mudança, e, após o dia 3 de Outubro de 2020 às 12:00:00 UTC - e 3 de Outubro em todos os fuso horários - *pull requests* só contarão para ganhar a camiseta ou plantar uma árvore se for enviada para um repositório classificado com o tópico "hacktoberfest". Os *pull requests* também precisarão ter feito *merge*, aprovado pelo monitor ou com um rótulo de "hacktoberfest-accepted" para serem qualificados. O prazo para conclusão, *merge*, rótulo e aprovação é 1 de Novembro.
+
+```
+Para por em termos que as pessoas entenderam de forma mais fácil:
+PRs contem se:
+Enviados para um repositório com o tópico hacktoberfest E
+durante o mês de Outubro E (
+  O PR foi dado *merge* OU
+  O PR está rotulado como hacktoberfest-accepted por um monitor OU
+  O PR foi aprovado
+)
+```
