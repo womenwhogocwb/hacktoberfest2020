@@ -27,15 +27,14 @@ A solicitação *pull request* deve conter confirmações que você mesmo fez. S
 
 Este ano, os primeiros 70.000 participantes podem ganhar uma [camiseta](https://hacktoberfest.digitalocean.com).
 
-## Quality standards
+## Padrões de qualidade
 
-In line with Hacktoberfest value #2 (Quantity is fun, quality is key), we have provided examples of pull requests that we consider to be low-quality contributions (which we discourage).
+De acordo com o valor #2 (Quantidade é divertido, qualidade é a chave), nós providenciamos exemplos de *pull requests* que consideramos contribuições de baixa qualidade (o que desencorajamos).
 
-- Pull requests that are automated (e.g. scripted opening pull requests to remove whitespace/fix typos/optimize images).
-- Pull requests that are disruptive (e.g. taking someone else's branch/commits and making a pull request).
-- Pull requests that are regarded by a project maintainer as a hindrance vs. helping.
-- Something that's clearly an attempt to simply +1 your pull request count for October.
-Last but not least, one pull request to fix a typo is fine, but 5 pull requests to remove a stray whitespace is not.
+- *Pull requests* que são automatizadas (ex. abrir *pull requests* com script para remover espaços em branco/corrigir erros de digitação/otimizar imagens).
+- *Pull requestes* que são disruptivas (ex. pegar a branch de outra pessoa/fazer o commit e *pull request*).
+- *Pull requests* de projetos que são considerados pelo monitor um obstáculo ao invés de estar ajudando.
+- Algo que claramente é uma tentativa de simplesmente marcar como +1 *pull request* para contar em Outubro. Por último mas não menos importante, um *pull request* para arrumar erro de digitação é ok, mas 5 *pull requests* para remover um espaço em branco perdido, não.
 
 ## Vamos trabalhar juntos para reduzir o spam
 
