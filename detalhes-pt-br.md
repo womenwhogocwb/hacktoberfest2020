@@ -64,3 +64,29 @@ durante o mês de Outubro E (
   O PR foi aprovado
 )
 ```
+
+**Uma nota para os monitores:** devido a está mudança, você não precisa mais cancelar o Hacktoberfest. Em vez disso, convidamos você a classificar seu repositório com uma tópico hacktoberfest e aplicar rótulos aceitos por hacktoberfest para puxar as solicitações que deseja aceitar. Incluímos alguns gifs abaixo para mostrar como isso pode ser simples.
+
+#### Como classificar um repositório como elegível para a Hacktoberfest
+
+![](./static/hacktoberfest-eligible-gif.gif)
+Fonte: Hacktofest 2020.
+
+Passo descrito no gif:
+
+1. Ir nas configurações sobre o seu repositório e adicionar **"hacktoberfest"** no campo **Tópico** e confirmar a alteração.
+
+#### Classificando um *pull request* como aceito e válido para participar do evento
+
+![](./static/hacktoberfest-label-add-gif-min.gif)
+Fonte: Hacktofest 2020.
+
+Passos descritos no gif:
+
+1. Entrar na aba "***Issues***"
+2. Aparecerá uma mensagem para adicionar um novo rótulo - ou em inglês *label*, caso não apareça a mensagem igual ao do gif o outro jeito de achar as *labels* é ao lado do filtro de *issues* que terá o botão de *label* junto ao botão de *Milestones* e Nova *Issue*
+3. Criar um novo rótulo com o nome de **"hacktoberfest-accepted"**
+4. Entrar na aba de *Pull Requests*
+5. Entrar no PR avaliado e adicionar o novo rótulo criado no passo 3 no lado direito da tela na sessão de Rótulos ou *Labels*, caso seu Github esteja inglês.
+
+[Clique aqui para conferir mais detalhes das novas regras ou caso queira reportar atividades consideradas como spam](https://hacktoberfest.digitalocean.com/hacktoberfest-update)
