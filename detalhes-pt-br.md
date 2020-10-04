@@ -30,7 +30,7 @@ De acordo com o valor #2 (Quantidade é divertido, qualidade é a chave), nós p
 - *Pull requests* que são automatizadas (ex. abrir *pull requests* com script para remover espaços em branco/corrigir erros de digitação/otimizar imagens).
 - *Pull requestes* que são disruptivas (ex. pegar a branch de outra pessoa/fazer o commit e *pull request*).
 - *Pull requests* de projetos que são considerados pelo monitor um obstáculo ao invés de estar ajudando.
-- Algo que claramente é uma tentativa de simplismente marcar como +1 *pull request* para contar em Outubro. Por último mas não menos importante, uma *pull request* para arrumar erro de digitação é ok, mas 5 *pull requests* para remover um espaço em branco perdido, não.
+- Algo que claramente é uma tentativa de simplesmente marcar como +1 *pull request* para contar em Outubro. Por último mas não menos importante, um *pull request* para arrumar erro de digitação é ok, mas 5 *pull requests* para remover um espaço em branco perdido, não.
 
 ## Vamos trabalhar juntos para reduzir o spam
 
