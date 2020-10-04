@@ -43,3 +43,50 @@ Há uma janela de sete dias para revisão de todas as *pull requests* antes de s
 Repositórios ruins serão excluídos. No passado, vimos muitos repositórios que incentivam os participantes a fazerem *pull requests* simples - como adicionar seus nomes a um arquivo - para obter rapidamente uma *pull request* para concluir o Hacktoberfest. Embora possa ser uma ferramenta de aprendizado para novos colaboradores, vai contra um dos nossos valores fundamentais do Hacktoberfest. A **qualidade** das *pull requests* é **fundamental**; a quantidade vem em segundo lugar. Esses repositórios não incentivam contribuições de qualidade e fornecem uma vantagem injusta na conclusão do desafio do Hacktoberfest. Implementamos um sistema para bloquear esses repositórios e quaisquer *pull requests* enviadas a esses repositórios não serão contadas.
 
 [Denunciar um repositório que não segue os valores do Hacktoberfest.](https://hacktoberfest.digitalocean.com/report)
+
+# UPDATE DE REGRAS DE PARTICIPAÇÃO
+
+Após vários relatos de *spam* ocorrendo nos primeiros dias do evento, a organização da Hacktoberfest juntamente com o Github reformularam as regras para evitar vários *pull requests* inválidos.
+
+**Estamos tornando o Hacktoberfest opcional apenas para projetos - onde os monitores poderão simplesmente adicionar o tópico "hacktoberfest" em um repositório.**
+
+Esta é uma das requisições primárias para o monitor e nós esperamos que isto ajude a aliviar um pouco dos problemas que vocês tem enfrentado.
+
+Nós honraremos todas as *pull requests* válidas antes desta mudança, e, após o dia 3 de Outubro de 2020 às 12:00:00 UTC - e 3 de Outubro em todos os fuso horários - *pull requests* só contarão para ganhar a camiseta ou plantar uma árvore se for enviada para um repositório classificado com o tópico "hacktoberfest". Os *pull requests* também precisarão ter feito *merge*, aprovado pelo monitor ou com um rótulo de "hacktoberfest-accepted" para serem qualificados. O prazo para conclusão, *merge*, rótulo e aprovação é 1 de Novembro.
+
+```
+Para por em termos que as pessoas entenderam de forma mais fácil:
+PRs contem se:
+Enviados para um repositório com o tópico hacktoberfest E
+durante o mês de Outubro E (
+  O PR foi dado *merge* OU
+  O PR está rotulado como hacktoberfest-accepted por um monitor OU
+  O PR foi aprovado
+)
+```
+
+**Uma nota para os monitores:** devido a esta mudança, você não precisa mais cancelar o Hacktoberfest. Em vez disso, convidamos você a classificar seu repositório com um tópico chamado *hacktoberfest* e aplicar rótulos (ou *labels*) nomeados como *hacktoberfest-accepted* para os *pull requests* que são válidos, mesmo para aqueles que não serão mergeados. Incluímos alguns gifs abaixo para mostrar como isso pode ser simples.
+
+#### Como classificar um repositório como elegível para a Hacktoberfest
+
+![](./static/hacktoberfest-eligible-gif.gif)
+Fonte: Hacktofest 2020.
+
+Passo descrito no gif:
+
+1. Ir nas configurações sobre o seu repositório e adicionar **"hacktoberfest"** no campo **Tópico** e confirmar a alteração.
+
+#### Classificando um *pull request* como aceito e válido para participar do evento
+
+![](./static/hacktoberfest-label-add-gif-min.gif)
+Fonte: Hacktofest 2020.
+
+Passos descritos no gif:
+
+1. Entrar na aba "***Issues***"
+2. Aparecerá uma mensagem para adicionar um novo rótulo - ou em inglês *label*, caso não apareça a mensagem igual ao do gif o outro jeito de achar as *labels* é ao lado do filtro de *issues* que terá o botão de *label* junto ao botão de *Milestones* e Nova *Issue*
+3. Criar um novo rótulo com o nome de **"hacktoberfest-accepted"**
+4. Entrar na aba de *Pull Requests*
+5. Entrar no PR avaliado e adicionar o novo rótulo criado no passo 3 no lado direito da tela na sessão de Rótulos ou *Labels*, caso seu Github esteja inglês.
+
+[Clique aqui para conferir mais detalhes das novas regras ou caso queira reportar atividades consideradas como spam](https://hacktoberfest.digitalocean.com/hacktoberfest-update)

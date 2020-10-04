@@ -34,7 +34,7 @@ o período para contabilizar contribuições válidas é de 1º a 31 de outubro.
 ### detalhes e regras
 
 os detalhes e regras traduzidos para o português (pt-br) podem ser encontrados aqui:
-[detalhes em português](./detalhes-pt-br.md) (em construção⏳)
+[detalhes em português](./detalhes-pt-br.md)
 
 o original, em inglês, pode ser encontrado em:
 [hacktoberfest/details](https://hacktoberfest.digitalocean.com/details)
