@@ -17,11 +17,15 @@ Nós recomendamos à todos os participantes que leiam todos os detalhes para gar
 
 - A Hacktoberfest está aberta a todos em nossa comunidade global. Seja você um contribuidor experiente ou esteja procurando projetos para contribuir pela primeira vez, sinta-se à vontade para participar.
 - As solicitações de pull request podem ser feitas em qualquer repositório ou projeto hospedado no GitHub. Contanto que o projeto esteja **público** e **hospedado no GitHub**, suas solicitações de *pull request* contarão para sua participação.
-- Você pode se inscrever a qualquer momento entre 1º de outubro e 31 de outubro. Apenas certifique-se de se inscrever no site oficial do Hacktoberfest(https://hacktoberfest.digitalocean.com/) para que suas solicitações de *pull request* sejam contabilizadas.
+- Você pode se inscrever a qualquer momento entre 1º de outubro e 31 de outubro. Apenas certifique-se de se inscrever no site oficial do [Hacktoberfest](https://hacktoberfest.digitalocean.com/) para que suas solicitações de *pull request* sejam contabilizadas.
 
-## Participation rules
+## Regras de participação
 
-To get a shirt, you must make four pull requests (PRs) between October 1–31 in any time zone. Pull requests can be to any public repository on GitHub, not just the ones highlighted. The pull request must contain commits you made yourself. If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest. If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate. This year, the first 70,000 participants can earn a T-shirt.
+Para ganhar uma camiseta oficial do evento, você deve fazer no mínimo quatro *pull requests* (PRs) entre o **dia 1 e o dia 31 de outubro** em qualquer fuso horário. As solicitações PR podem ser feitas para qualquer **repositório público** no GitHub, não apenas os repositórios destacados.
+
+A solicitação *pull request* deve conter confirmações que você mesmo fez. Se um monitor relatar sua solicitação de *pull* como *spam*, isso não será contabilizado para sua participação no Hacktoberfest. Se um monitor relatar um comportamento que não esteja de acordo com o código de conduta do projeto, você não poderá participar.
+
+Este ano, os primeiros 70.000 participantes podem ganhar uma [camiseta](https://hacktoberfest.digitalocean.com).
 
 ## Quality standards
 
