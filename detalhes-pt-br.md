@@ -65,7 +65,7 @@ durante o mês de Outubro E (
 )
 ```
 
-**Uma nota para os monitores:** devido a está mudança, você não precisa mais cancelar o Hacktoberfest. Em vez disso, convidamos você a classificar seu repositório com uma tópico hacktoberfest e aplicar rótulos aceitos por hacktoberfest para puxar as solicitações que deseja aceitar. Incluímos alguns gifs abaixo para mostrar como isso pode ser simples.
+**Uma nota para os monitores:** devido a esta mudança, você não precisa mais cancelar o Hacktoberfest. Em vez disso, convidamos você a classificar seu repositório com um tópico chamado *hacktoberfest* e aplicar rótulos (ou *labels*) nomeados como *hacktoberfest-accepted* para os *pull requests* que são válidos, mesmo para aqueles que não serão mergeados. Incluímos alguns gifs abaixo para mostrar como isso pode ser simples.
 
 #### Como classificar um repositório como elegível para a Hacktoberfest
 
