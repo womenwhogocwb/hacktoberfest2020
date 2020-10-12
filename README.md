@@ -29,16 +29,19 @@ as inscrições para participar **já estão abertas**!
 corre pra se inscrever através desse site aqui:
 [hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com).
 
-o período para contabilizar contribuições válidas é de 1º a 31 de outubro. 
+o período para contabilizar contribuições válidas é de 1º a 31 de outubro, e nesse ano há novas regras para evitar spam. 
 
 ### detalhes e regras
 
 os detalhes e regras traduzidos para o português (pt-br) podem ser encontrados aqui:
 [detalhes em português](./detalhes-pt-br.md)
 
-o original, em inglês, pode ser encontrado em:
-[hacktoberfest/details](https://hacktoberfest.digitalocean.com/details)
+o original, em inglês, pode ser encontrado em
+[hacktoberfest/details](https://hacktoberfest.digitalocean.com/details), e as atualizações sobre spam em [hacktoberfest-update](https://hacktoberfest.digitalocean.com/hacktoberfest-update)
 
 ## sugestões de repositórios para contribuir
 
-- [go modules - gitbook](https://github.com/alexrios/gomodules)
+- [go modules](https://github.com/alexrios/gomodules): adicione conteúdo ao gitbook em português sobre go modules
+- [gocity](https://github.com/rodrigo-brito/gocity): ajude a aumentar a cobertura de testes do projeto gocity
+- [the algorithms - go](https://github.com/TheAlgorithms/Go): faça exemplos de algoritmos em go
+- [ztests](https://github.com/alexrios/ztests): implemente suporte a outros contêineres
