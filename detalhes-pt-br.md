@@ -119,7 +119,7 @@ Submetido durante o mês de Outubro E
 Submetido a um repositório público E (
   O PR foi rotulado como "hacktoberfest-accepted" por uma pessoa mantenedora OU
   Submetido a um repositório que tem o tópico "hacktoberfest" E (
-    O PR foi mergeado OR
+    O PR foi mergeado OU
     O PR foi aprovado
   )
 )
