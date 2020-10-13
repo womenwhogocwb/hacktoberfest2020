@@ -1,92 +1,158 @@
-## Recursos
+# RECURSOS
 
-Quer seja o seu primeiro ou quinquagésimo *Pull Request*, sempre há mais para aprender! Nós reunimos alguns recursos que podem ajudá-lo a criar *Pull Requests* de qualidade, manter seus repositórios impecáveis e desenvolver seu conhecimento em *open source*.
+Quer seja o seu primeiro ou quinquagésimo *Pull Request*, sempre há mais para aprender!
+Reunimos alguns recursos que podem lhe ajudar a criar *Pull Requests* de qualidade,
+manter os seus repositórios impecáveis e desenvolver o seu conhecimento em *open source*.
 
 ## Valores
 
-Inspirado em vocês, -a comunidade- através das suas ações e histórias.
+Inspirados em vocês - a comunidade -, pelas suas ações e histórias.
 
-1. **Todos são bem vindos!** Os participantes no Hacktoberfest representam 151 países e milhares de conjuntos de habilidades exclusivas. Este programa dá boas vindas a todos os que já fazem parte da comunidade de *software open source*, e todos os que estão interessados em se unir.
-2. **Quantidade é divertido, qualidade é a chave** Os participantes do Hacktoberfest levam ao crescimento pessoal, oportunidades profissionais e construção de comunidade. Contudo, tudo começa com contribuições significativas para o *software open source*
-3. **Ação de curto prazo, impacto de longo prazo** Na comunidade de *software open source*, estamos apoiados nos ombros daqueles que estão antes de nós. Sua participação terá um efeito duradouro nas pessoas e na tecnologia após Outubro. Esta é uma viagem, não uma corrida.
+1. **Todas as pessoas são bem-vindas!** As participantes na Hacktoberfest representam 151 países e
+milhares de conjuntos de habilidades exclusivas. Este programa dá boas-vindas a todas que já fazem
+parte da comunidade de *software open source*, e a todas que estão interessadas em se unir.
+2. **Quantidade é divertido, qualidade é a chave** Participar da Hacktoberfest leva a crescimento pessoal,
+oportunidades profissionais e construção de comunidade. Contudo, tudo começa com contribuições significativas
+para o *software open source*
+3. **Ação de curto prazo, impacto de longo prazo** Na comunidade de *software open source*, nos apoiamos
+nos ombros daqueles que vieram antes de nós. A sua participação terá um efeito duradouro nas pessoas e na
+tecnologia após outubro. Esta é uma viagem, não uma corrida.
 
-## Começando com o Hacktoberfest
-Nós recomendamos à todos os participantes que leiam todos os detalhes para garantir que a comunidade global esteja trabalhando em direção à um objetivo em comum. Obrigada por honrar os valores e seguir as regras de participação.
+## Começando com a Hacktoberfest
+Recomendamos a todas as participantes que leiam todos os detalhes para garantir que a comunidade global
+trabalhe em direção a um objetivo em comum. Agradecemos por honrar os valores e seguir as regras de participação.
 
 ## Detalhes de participação
 
-- A Hacktoberfest está aberta a todos em nossa comunidade global. Seja você um contribuidor experiente ou esteja procurando projetos para contribuir pela primeira vez, sinta-se à vontade para participar.
-- As solicitações de pull request podem ser feitas em qualquer repositório ou projeto hospedado no GitHub. Contanto que o projeto esteja **público** e **hospedado no GitHub**, suas solicitações de *pull request* contarão para sua participação.
-- Você pode se inscrever a qualquer momento entre 1º de outubro e 31 de outubro. Apenas certifique-se de se inscrever no site oficial do [Hacktoberfest](https://hacktoberfest.digitalocean.com/) para que suas solicitações de *pull request* sejam contabilizadas.
+- A Hacktoberfest está aberta a todas as pessoas na nossa comunidade global. Quer seja uma contribuidora experiente
+ou esteja a procura de projetos para contribuir pela primeira vez, sinta-se à vontade para participar.
+- As solicitações de *pull request* podem ser feitas em qualquer repositório ou projeto hospedado no GitHub.
+Contanto que o projeto esteja **público** e **hospedado no GitHub**, as suas solicitações de *pull request* contarão
+para a sua participação (observação: *há novos requisitos, veja a
+[seção sobre a atualização das regras](#ATUALIZAÇÃO-DAS-REGRAS-DE-PARTICIPAÇÃO)*)
+- Você pode se inscrever a qualquer momento entre 1º e 31 de outubro. Apenas se certifique de fazer a sua inscrição
+no site oficial da [Hacktoberfest](https://hacktoberfest.digitalocean.com/) para que as suas solicitações de
+*pull request* sejam contabilizadas.
 
 ## Regras de participação
 
-Para ganhar uma camiseta oficial do evento, você deve fazer no mínimo quatro *pull requests* (PRs) entre o **dia 1 e o dia 31 de outubro** em qualquer fuso horário. As solicitações PR podem ser feitas para qualquer **repositório público** no GitHub, não apenas os repositórios destacados.
+Para ganhar uma camiseta oficial do evento, você deve fazer no mínimo quatro *pull requests* (PRs) entre o
+**dia 1º e o dia 31 de outubro** em qualquer fuso horário. ~~As solicitações de PR podem ser feitas para qualquer
+**repositório público** no GitHub, não apenas os repositórios destacados.~~
+([ver regras atualizadas](#ATUALIZAÇÃO-DAS-REGRAS-DE-PARTICIPAÇÃO))
 
-A solicitação *pull request* deve conter confirmações que você mesmo fez. Se um monitor relatar sua solicitação de *pull* como *spam*, isso não será contabilizado para sua participação no Hacktoberfest. Se um monitor relatar um comportamento que não esteja de acordo com o código de conduta do projeto, você não poderá participar.
+A solicitação *pull request* deve conter *commits* de sua autoria. Se uma pessoa mantenedora relatar a sua solicitação
+de *pull request* como *spam*, ele não será contabilizado para a sua participação na Hacktoberfest. Se uma pessoa
+mantenedora relatar um comportamento que não esteja de acordo com o código de conduta do projeto, você não poderá
+participar.
 
-Este ano, os primeiros 70.000 participantes podem ganhar uma [camiseta](https://hacktoberfest.digitalocean.com).
+Este ano, as primeiras 70.000 participantes podem ganhar uma [camiseta](https://hacktoberfest.digitalocean.com).
 
 ## Padrões de qualidade
 
-De acordo com o valor #2 (Quantidade é divertido, qualidade é a chave), nós providenciamos exemplos de *pull requests* que consideramos contribuições de baixa qualidade (o que desencorajamos).
+De acordo com o valor #2 (Quantidade é divertido, qualidade é a chave), providenciamos exemplos de *pull requests*
+que consideramos contribuições de baixa qualidade (o que desencorajamos).
 
-- *Pull requests* que são automatizadas (ex. abrir *pull requests* com script para remover espaços em branco/corrigir erros de digitação/otimizar imagens).
-- *Pull requestes* que são disruptivas (ex. pegar a branch de outra pessoa/fazer o commit e *pull request*).
-- *Pull requests* de projetos que são considerados pelo monitor um obstáculo ao invés de estar ajudando.
-- Algo que claramente é uma tentativa de simplesmente marcar como +1 *pull request* para contar em Outubro. Por último mas não menos importante, um *pull request* para arrumar erro de digitação é ok, mas 5 *pull requests* para remover um espaço em branco perdido, não.
+- *Pull requests* que são automatizados (exemplo: abrir *pull requests* com *script* para remover espaços em
+branco/corrigir erros de digitação/otimizar imagens).
+- *Pull requests* que são disruptivos (exemplo: pegar a *branch*/o *commit* de outra pessoa e solicitar *pull request*).
+- *Pull requests* que são considerados pela pessoa mantenedora um obstáculo em vez de ajuda.
+- Algo que seja uma tentativa explícita de simplesmente adicionar +1 *pull request* à sua contagem de outubro.
 
-## Vamos trabalhar juntos para reduzir o spam
+Por último, mas não menos importante, um *pull request* para arrumar erro de digitação é ok, mas 4 *pull requests*
+para remover um espaço em branco perdido, não.
 
-Fazer *spam de Pull Requests* pode ser rotulado como “Inválido”. Os monitores lidam com a maior parte do *spam* que ocorre durante o Hacktoberfest e não gostamos de spam tanto quanto você. Se você for um monitor, rotule todas as solicitações de *pull requests spam* enviadas aos repositórios que você mantém como "inválido" ou "spam" e feche-as. *Pull Requests* com esta etiqueta não contam para o Hacktoberfest.
-Há uma janela de sete dias para revisão de todas as *pull requests* antes de serem contabilizadas para a conclusão do desafio. Depois que um participante envia quatro *pull requests* elegíveis (prontas para revisão, não rascunhos), a janela de revisão é iniciada. Este período dá aos monitores tempo para identificar e rotular as *pull requests* que são *spam* como inválidas. Se as *pull requests* não forem marcadas como inválidas nessa janela, elas permitirão que o usuário conclua o desafio do Hacktoberfest. Se qualquer uma das *pull requests* forem rotuladas como inválida, o usuário retornará ao estado pendente até que tenha quatro *pull requests* qualificadas, e então período de revisão começará novamente.
-Repositórios ruins serão excluídos. No passado, vimos muitos repositórios que incentivam os participantes a fazerem *pull requests* simples (como adicionar seus nomes a um arquivo) para obter rapidamente uma *pull request* para concluir o Hacktoberfest. Embora possa ser uma ferramenta de aprendizado para novos colaboradores, vai contra um dos nossos valores fundamentais do Hacktoberfest. A **qualidade** das *pull requests* é **fundamental**; a quantidade vem em segundo lugar. Esses repositórios não incentivam contribuições de qualidade e fornecem uma vantagem injusta na conclusão do desafio do Hacktoberfest. Implementamos um sistema para bloquear esses repositórios e quaisquer *pull requests* enviadas a esses repositórios não serão contadas.
+## Vamos trabalhar em conjunto para reduzir o spam
 
-[Denunciar um repositório que não segue os valores do Hacktoberfest.](https://hacktoberfest.digitalocean.com/report)
+- *Pull Requests* considerados *spam* podem ser rotulados como “inválido” ou "spam" para que não sejam contabilizados.
+As pessoas mantenedoras lidam com a maior parte do *spam* que ocorre durante a Hacktoberfest, e não gostamos de spam
+tanto quanto você. Se você for uma pessoa mantenedora, por favor, rotule todas as solicitações de *pull requests spam*
+enviadas aos repositórios que você mantém como `invalid` ou `spam` e as feche. *Pull Requests* com estas etiquetas
+não contam para a Hacktoberfest.
+- Há uma janela de quatorze dias para revisão de todos os *pull requests* antes de os mesmos serem contabilizados
+para a conclusão do desafio. Depois que uma participante envia quatro *pull requests* elegíveis (prontas para revisão,
+não rascunhos), a janela é iniciada. Este período dá às pessoas mantenedoras tempo para identificar e
+rotular os *pull requests* que são *spam* como inválidos. Se os *pull requests* não forem marcados como inválidos
+nessa janela, será possível que a usuária conclua o desafio do Hacktoberfest. Se qualquer um dos *pull requests*
+for rotulado como inválido, a usuária retornará ao estado pendente até que tenha quatro *pull requests* qualificados,
+e então período de revisão começará novamente.
+- Repositórios ruins serão excluídos. No passado, vimos muitos repositórios que incentivavam as participantes a fazerem
+*pull requests* simples (como adicionar os seus nomes a um arquivo) para obter rapidamente um *pull request* para
+concluir a Hacktoberfest. Embora possa ser uma ferramenta de aprendizado para novos colaboradores, vai contra um dos
+nossos valores fundamentais da Hacktoberfest. A **qualidade** dos *pull requests* é **fundamental**; a quantidade vem
+em segundo lugar. Esses repositórios não incentivam contribuições de qualidade e fornecem uma vantagem injusta na
+conclusão do desafio da Hacktoberfest. Implementamos um sistema para bloquear esses repositórios e quaisquer
+*pull requests* enviados a eles não serão contabilizados.
 
-# UPDATE DE REGRAS DE PARTICIPAÇÃO
+[Clique aqui para denunciar um repositório que não segue os valores do Hacktoberfest.](https://hacktoberfest.digitalocean.com/report)
 
-Após vários relatos de *spam* ocorrendo nos primeiros dias do evento, a organização da Hacktoberfest juntamente com o Github reformularam as regras para evitar vários *pull requests* inválidos.
+- [Recursos para iniciantes](https://hacktoberfest.digitalocean.com/details#beginners)
+- [Recursos para mantenedoras](https://hacktoberfest.digitalocean.com/details#maintainers)
+- [Recursos para organizadoras de evento](https://hacktoberfest.digitalocean.com/details#organizers)
+- [Recursos para empresas](https://hacktoberfest.digitalocean.com/details#companies)
 
-**Estamos tornando o Hacktoberfest opcional apenas para projetos - onde os monitores poderão simplesmente adicionar o tópico "hacktoberfest" em um repositório.**
+# ATUALIZAÇÃO DAS REGRAS DE PARTICIPAÇÃO
 
-Esta é uma das requisições primárias para o monitor e nós esperamos que isto ajude a aliviar um pouco dos problemas que vocês tem enfrentado.
+Após vários relatos de *spam* ocorrendo nos primeiros dias do evento, a organização da Hacktoberfest em conjunto com
+o Github reformulou as regras para evitar vários *pull requests* inválidos.
 
-Nós honraremos todas as *pull requests* válidas antes desta mudança, e, após o dia 3 de Outubro de 2020 às 12:00:00 UTC - e 3 de Outubro em todos os fuso horários - *pull requests* só contarão para ganhar a camiseta ou plantar uma árvore se for enviada para um repositório classificado com o tópico "hacktoberfest". Os *pull requests* também precisarão ter feito *merge*, aprovado pelo monitor ou com um rótulo de "hacktoberfest-accepted" para serem qualificados. O prazo para conclusão, *merge*, rótulo e aprovação é 1 de Novembro.
+**Tornamos a Hacktoberfest *opt-in only* para os projetos**, ou seja, apenas repositórios que ativamente sinalizarem
+farão parte da contagem dos *pull requests* do desafio. 
+As pessoas mantenedoras poderão fazer essa sinalização adicionando o tópico `hacktoberfest` ao repositório.
+
+Esta foi uma das principais solicitações das pessoas mantenedoras e esperamos que isto ajude a aliviar um pouco
+dos problemas que têm acontecido.
+
+Honraremos todos os *pull requests* válidos antes desta mudança, e, após o dia 3 de outubro de 2020 às 12:00
+UTC - e 3 de outubro em todos os fuso-horários - *pull requests* só contarão para ganhar a camiseta ou plantar uma
+árvore se forem rotulados como `hacktoberfest-accepted` por uma pessoa mantenedora ou submetidos a um repositório
+classificado com o tópico `hacktoberfest`. Nesse último caso, os *pull requests* também precisarão ter sido mergeados,
+ter sido aprovados por uma pessoa mantenedora ou ter recebido a etiqueta `hacktoberfest-accepted` para serem
+qualificados. O prazo para concluir, mergear, receber a etiqueta `hacktoberfest-accepted` e aprovar é 1º de novembro.
+
+Para ilustrar as regras de uma forma que combina com o espírito da Hacktoberfest:
 
 ```
-Para por em termos que as pessoas entenderam de forma mais fácil:
-PRs contem se:
-Enviados para um repositório com o tópico hacktoberfest E
-durante o mês de Outubro E (
-  O PR foi dado *merge* OU
-  O PR está rotulado como hacktoberfest-accepted por um monitor OU
-  O PR foi aprovado
+O Pull Request conta se:
+
+Submetido durante o mês de Outubro E
+Submetido a um repositório público E (
+  O PR foi rotulado como "hacktoberfest-accepted" por uma pessoa mantenedora OU
+  Submetido a um repositório que tem o tópico "hacktoberfest" E (
+    O PR foi mergeado OU
+    O PR foi aprovado
+  )
 )
 ```
 
-**Uma nota para os monitores:** devido a esta mudança, você não precisa mais cancelar o Hacktoberfest. Em vez disso, convidamos você a classificar seu repositório com um tópico chamado *hacktoberfest* e aplicar rótulos (ou *labels*) nomeados como *hacktoberfest-accepted* para os *pull requests* que são válidos, mesmo para aqueles que não serão mergeados. Incluímos alguns gifs abaixo para mostrar como isso pode ser simples.
+**Nota às pessoas mantenedoras:** com estas mudanças, você não precisa mais se descadastrar da Hacktoberfest. Em vez
+disso, convidamos você a classificar o seu repositório com o tópico `hacktoberfest` e aplicar a etiqueta
+`hacktoberfest-accepted` aos *pull requests* que são válidos, mesmo aqueles que não serão mergeados. Incluímos alguns
+gifs abaixo para mostrar como é simples.
 
 #### Como classificar um repositório como elegível para a Hacktoberfest
 
 ![](./static/hacktoberfest-eligible-gif.gif)
-Fonte: Hacktofest 2020.
+Fonte: Hacktoberfest 2020.
 
 Passo descrito no gif:
 
-1. Ir nas configurações sobre o seu repositório e adicionar **"hacktoberfest"** no campo **Tópico** e confirmar a alteração.
+1. Ir nas configurações do seu repositório e adicionar `hacktoberfest` no campo **Tópico** e confirmar a alteração.
 
 #### Classificando um *pull request* como aceito e válido para participar do evento
 
 ![](./static/hacktoberfest-label-add-gif-min.gif)
-Fonte: Hacktofest 2020.
+Fonte: Hacktoberfest 2020.
 
 Passos descritos no gif:
 
-1. Entrar na aba "***Issues***"
-2. Aparecerá uma mensagem para adicionar um novo rótulo - ou em inglês *label*, caso não apareça a mensagem igual ao do gif o outro jeito de achar as *labels* é ao lado do filtro de *issues* que terá o botão de *label* junto ao botão de *Milestones* e Nova *Issue*
-3. Criar um novo rótulo com o nome de **"hacktoberfest-accepted"**
-4. Entrar na aba de *Pull Requests*
-5. Entrar no PR avaliado e adicionar o novo rótulo criado no passo 3 no lado direito da tela na sessão de Rótulos ou *Labels*, caso seu Github esteja inglês.
+1. Entrar na aba "***Pull Requests***" ou na aba "***Issues***"
+2. Clicar em "**Labels**"
+3. Clicar no botão "**New label**"
+4. Preencher o campo "Label name" com `hacktoberfest-accepted`, preencher o campo "Description" com a descrição (é
+opcional) e escolher a cor da etiqueta
+5. Clicar no botão "**Create label**"
+6. Entrar na aba de *Pull Requests*
+7. Entrar no PR avaliado e adicionar a nova etiqueta criada no passo 5 no lado direito da tela, na seção **Labels**.
 
 [Clique aqui para conferir mais detalhes das novas regras ou caso queira reportar atividades consideradas como spam](https://hacktoberfest.digitalocean.com/hacktoberfest-update)
