@@ -1,4 +1,4 @@
-# hacktoberfest women who go cwb 2020
+# HacktoberFest women who go cwb 2020
 
 [![Twitter](./static/twitter-logo.png)](https://twitter.com/womenwhogocwb)
 [![Instagram](./static/instagram-logo.png)](https://instagram.com/womenwhogocwb)
@@ -6,7 +6,7 @@
  
 ![](./static/wwgcwb-logo.png)
 
-## welcome!
+## Welcome!
 
 This repository contains the details and rules of hacktoberfest 2020 and suggestions for projects you can contribute to in this edition.
 
